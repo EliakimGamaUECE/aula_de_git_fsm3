@@ -1,0 +1,47 @@
+h2 {
+    color: crimson;
+}
+
+#meu-paragrafo{
+    color:chartreuse
+}
+
+.amarelo{
+    color:rgb(255, 234, 44) ;
+}
+
+nav {
+
+    background-color: rgb(18, 184, 199);
+    height: 40px;
+}
+
+img {
+    width: 70px;
+    height: 35px;
+}
+
+div {
+    background-color:blueviolet; 
+}
+
+#div-diferente {
+    background-color: blue;
+    padding: 5px;
+    border: 10px;
+    border-color: black;
+    border-style: double;
+}
+
+@media screen and (min-width: 0px) and (max-width: 400px){
+   
+    
+}
+
+
+@media screen and (min-width: 401px) and (max-width: 800px){
+ 
+     
+ }
+
+
